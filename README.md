@@ -1,2 +1,2 @@
-# powerbi-data-
-products.csv
+# powerbi-data
+products
